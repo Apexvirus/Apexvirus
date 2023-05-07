@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id
-
-https://github-readme-stats.vercel.app/api?username=Apexvirus&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true
 
 
 - 🔭 I’m currently working on becoming something greater than what I am right now
