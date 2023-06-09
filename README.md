@@ -18,7 +18,7 @@
   🎓 I am an Undergrad student from FAST National University, Karachi
   <br>
   
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learning things about it
   <br>
   📚 I’m currently learning Python technologies like Django, CV etc.
   <br>
