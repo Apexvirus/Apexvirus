@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=haris741.haris741">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Apexvirus.Apexvirus">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
