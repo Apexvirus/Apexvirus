@@ -5,10 +5,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bilal....;Nice+to+meet+you!!&center=true&size=30">
   </a>
 </h1>
-
+<img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/muhammad-bilal-6b9211240" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/muhammad-bilal-6b9211240" title="LinkedIn Profile">
+     
   
 </h5>
 <br>
