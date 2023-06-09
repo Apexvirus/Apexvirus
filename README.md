@@ -5,12 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bilal....;Nice+to+meet+you!!&center=true&size=30">
   </a>
 </h1>
-<img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/muhammad-bilal-6b9211240" title="LinkedIn Profile">
-     
-  
+    <a href="https://www.linkedin.com/in/muhammad-bilal-6b9211240" title="LinkedIn Profile"><img width="25" src="images/linkedin.svg"> LinkedIn</a>
 </h5>
 <br>
 <p align="center">
@@ -76,7 +73,7 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Apexvirus&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <!--<img src="https://activity-graph.herokuapp.com/graph?username=Apexvirus&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 </p>
 
 <hr>
