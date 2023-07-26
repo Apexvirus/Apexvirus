@@ -55,6 +55,10 @@
 </p>
 <hr>
 
+# Some of My Favorites Tools, and Languages
+
+[![My Skills](https://skillicons.dev/icons?i=react,bootstrap,c,cs,cpp,css,discord,eclipse,firebase,git,github,html,idea,java,js,jquery,linux,materialui,mongodb,mysql,nodejs,php,postman,powershell,py,redux,regex,sass,visualstudio,vscode)](https://github.com/Apexvirus)
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
