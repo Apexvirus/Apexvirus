@@ -2,13 +2,19 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bilal....;Nice+to+meet+you!!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bilal;Nice+to+meet+you!!&center=true&size=40">
   </a>
 </h1>
 
 <h5 align="center">
-    <a href="https://www.linkedin.com/in/muhammad-bilal-6b9211240" title="LinkedIn Profile"><img width="25" src="images/linkedin.svg"> LinkedIn</a>
-</h5>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/muhammad-bilal-6b9211240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-bilal-6b9211240" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bilal._.suleman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bilal._.suleman" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/k224242?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="k224242" height="30" width="40" /></a>
+<a href="https://leetcode.com/Apexvirus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Apexvirus" height="30" width="40" /></a>
+</p>
+<br>
 <br>
 <p align="center">
   Hi, I'm Muhammad Bilal, Software Engineer and Computer Science Student at NUCES FAST Karachi
