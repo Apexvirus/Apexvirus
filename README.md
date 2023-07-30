@@ -38,7 +38,7 @@
 <br>
 <p align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,c,cs,cpp,css,discord,eclipse,firebase,git,github,html,idea,java,js,jquery,linux,materialui,mongodb,mysql,nodejs,php,postman,powershell,py,redux,regex,sass,visualstudio,vscode)](https://github.com/Apexvirus)
+  [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,c,cpp,css,discord,eclipse,git,github,html,idea,java,js,jquery,linux,materialui,flutter,mongodb,mysql,nodejs,php,postman,powershell,py,regex,sass,visualstudio,vscode)](https://github.com/Apexvirus)
 </p>
 
 <hr>
